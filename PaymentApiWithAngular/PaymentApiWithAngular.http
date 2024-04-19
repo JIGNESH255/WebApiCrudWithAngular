@@ -1,0 +1,6 @@
+@PaymentApiWithAngular_HostAddress = http://localhost:5128
+
+GET {{PaymentApiWithAngular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
